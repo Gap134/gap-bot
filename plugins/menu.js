@@ -86,7 +86,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╰═══════════════
 
 ╭════•›「 Sosmed 」
-╿ Youtube : GAP GAMING
+╿Youtube : GAP GAMING
+╿ Guthub : https://github.com/Gap134/gap-bot
 ╰═══════════════
 
 ╭════•›「 Rules 」
